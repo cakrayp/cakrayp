@@ -6,7 +6,7 @@ Hi my name is Cakra Yudha Pratama
 
 • I am from Indonesia Jambi area
 • I am a programmer, programming is just my hobby
-• I'm currently focusing on Javascript,
+• I'm currently focusing on Javascript, python, PHP,
   html & css
 ```
 
